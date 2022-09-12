@@ -1,1 +1,1 @@
-# Adigital-clock-with-jQuery
+# A digital-clock-with-jQuery
